@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(rg --files /Users/Scar/Documents/Code/BSP_S6/pet-next/app /Users/Scar/Documents/Code/BSP_S6/pet-next/components /Users/Scar/Documents/Code/BSP_S6/pet-next/lib)",
+      "Bash(npx tsc *)",
+      "Bash(npx tsx *)"
+    ]
+  }
+}
